@@ -4,13 +4,13 @@
 
 New Haven Public Schools\
 500 Boston Post Road\
-West Haven, CT 06516\
+West Haven, CT 06516
 
 #### Richard Cuminale
 
 Email:  richard.cuminale@nhboe.net\
-Github: https://github.com/rwcuminale/English-3\
-Twitter:  @RichardCuminale\
+Github: https://github.com/rwcuminale/English-3 \
+Twitter:  @RichardCuminale
 
 ## Overview
 
@@ -26,41 +26,22 @@ We will also strive to align our studies with American History and Civics course
 
 The course goals are aligned with mastery of the Connecticut Common Core State Standards for Grade 11.
 Below list the skills, habits, and practices the course values in addition to the Common Core:\
-
-* Cultivate our identities as intelligent readers and writers through the habits of mind that lead to academic success:[^1]
-
+* Cultivate our identities as intelligent readers and writers through the habits of mind that lead to academic success:
 	+ Curiosity 
-
 	+ Openness 
-
 	+ Engagement 
-
 	+ Creativity 
-
 	+ Responsibility
-
 	+ Persistence 
-
 	+ Metacognition 
-
 	+ Empathy
-
-<!--Am I making these real? How do I keep from forgetting them in the future?--!>
-
 * Create a community of learners that supports and challenges each other to grow
-
 * Explore the nature of the writing process to grow as writers
-
 * Read and appreciate meaningful literary and rhetorical texts
-
 * Write accomplished papers in a variety of forms: narrative, interpretive, argumentative, and literary
-
 * Grow in comfort and proficiency in academic essay writing
-
 * Grow in understanding and applying the structural and grammatical elements of the English language
-
 * Expand your vocabularies through direct instruction and contextual strategies
-
 * Prepare to meet the SAT exam with concrete strategies and a feeling of confidence
 
 ## What You Need
