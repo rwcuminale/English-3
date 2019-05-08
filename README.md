@@ -20,13 +20,13 @@ Twitter:  @RichardCuminale
 ## Overview
 
 <!--Fix this to make it more readable: the sentences are too long--!>
-English 3 aims to cultivate intellectual skills and habits of mind to help you grow as a person. 
-At the same time, you will engage with and hopefully appreciate works of authentic literary and rhetorical merit. 
-There is a strong structural focus to the course, 
+English 3 aims to cultivate intellectual skills and habits of mind to help you grow as a person.
+At the same time, you will engage with and hopefully appreciate works of authentic literary and rhetorical merit.
+There is a strong structural focus to the course,
   meaning it will look at language on a fundamental level, examining how its elements work together.
-Specifically, we will be taking a close look at the writing process, elements of literature and rhetoric, the explicit functions of grammar, and the representational nature of language as a whole. 
+Specifically, we will be taking a close look at the writing process, elements of literature and rhetoric, the explicit functions of grammar, and the representational nature of language as a whole.
 The course texts explore both themes and genres, while keeping an open mind to areas of interest that will naturally arise along the way.
-We will also strive to align our studies with American History and Civics courses wherever possible.
+We will also strive to align our studies with American History and Civics courses wherever possible.  
 
 ## Goals
 
