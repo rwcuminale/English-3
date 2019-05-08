@@ -1,63 +1,104 @@
 ﻿# English 3 Syllabus
 
-*Richard Cuminale*
-Engineering & Science University Magnet School
+**Richard Cuminale**
+
+### Engineering & Science University Magnet School
+
 New Haven Public Schools
+
 500 Boston Post Road
+
 West Haven, CT 06516
 
+### Contact Information
+
 Email:  richard.cuminale@nhboe.net
+
 Github: https://github.com/rwcuminale/English-3
+
 Twitter:  @RichardCuminale
 
 ## Overview
 
 <!--Fix this to make it more readable: the sentences are too long--!>
 English 3 aims to cultivate intellectual skills and habits of mind that lead to academic and professional success while studying works of authentic literary and rhetorical merit. 
+
 There is a strong structural focus to the course, taking a close look at the writing process, elements of literature and rhetoric, the explicit functions of grammar, and the representational nature of language as a whole. 
+
 The course texts explore themes relating to the function of literature, the American Dream, and the relationships between literature, politics, and our own identities --- among others that will naturally arise along the way. 
+
 We will visit and revist these themes throughout the year as they manifest within discrete studies of the main genres of writing: poetry, fiction, narrative nonfiction, and rhetoric. 
+
 This course also attempts to align with and make connections to American History and Civics courses wherever possible.
 
 ## Goals
 
 The course goals are aligned with mastery of the Connecticut Common Core State Standards for Grade 11. 
+
 Below list the skills, habits, and practices the course values in addition to the Common Core:
 
 * Cultivate our identities as intelligent readers and writers through the habits of mind that lead to academic success:[^1]
+
 	+ Curiosity 
+
 	+ Openness 
+
 	+ Engagement 
+
 	+ Creativity 
+
 	+ Responsibility
+
 	+ Persistence 
+
 	+ Metacognition 
+
 	+ Empathy
+
 <!--Am I making these real? How do I keep from forgetting them in the future?--!>
+
 * Create a community of learners that supports and challenges each other to grow
+
 * Explore and learn about the nature of the writing process, making use of this knowledge to utilize the writing process to our own best advantage
+
 * Read and appreciate meaningful literary and rhetorical texts
+
 * Write accomplished papers in a variety of forms: narrative, interpretive, argumentative, and literary
+
 * Grow in comfort and proficiency in academic essay writing
+
 * Grow in understanding and applying the structural and grammatical elements of the English language
+
 * Expand your vocabularies through direct instruction and contextual strategies
+
 * Prepare to meet the SAT exam with concrete strategies and a feeling of confidence
 
 ## What You Need
 
 You must bring the following to class every day: 
+
 * Writing Instrument
+
 * Dedicated single-subject writing journal for in-class writing and note taking
+
 * A book to read for fun
+
 * Homework, Projects, or Current Unit Text
 
 People look down on organization by genre and text. Just keep that in mind.
+
 <!--Informal short unit on course logistics--!>
-2. Writing Process
+
+1. Writing Process
+
 3. Literary Devices (Project)?
+
 4. Short Stories
+
 5. Novel
+
 6. Poetry
+
 7. Rhetoric
 
 \section{Curriculum}
