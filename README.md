@@ -1,7 +1,5 @@
 ﻿# English 3 Syllabus
 
-#### Richard Cuminale
-
 #### Engineering & Science University Magnet School
 
 New Haven Public Schools
@@ -10,7 +8,8 @@ New Haven Public Schools
 
 West Haven, CT 06516
 
-#### Contact Information
+
+#### Richard Cuminale
 
 Email:  richard.cuminale@nhboe.net
 
