@@ -26,51 +26,40 @@ We will also strive to align our studies with American History and Civics course
 
 The course goals are aligned with mastery of the Connecticut Common Core State Standards for Grade 11.
 Below list the skills, habits, and practices the course values in addition to the Common Core:
-* Cultivate our identities as intelligent readers and writers through the habits of mind that lead to academic success:
-	+ Curiosity 
-	+ Openness 
-	+ Engagement 
-	+ Creativity 
-	+ Responsibility
-	+ Persistence 
-	+ Metacognition 
-	+ Empathy
-* Create a community of learners that supports and challenges each other to grow
-* Explore the nature of the writing process to grow as writers
-* Read and appreciate meaningful literary and rhetorical texts
-* Write accomplished papers in a variety of forms: narrative, interpretive, argumentative, and literary
-* Grow in comfort and proficiency in academic essay writing
-* Grow in understanding and applying the structural and grammatical elements of the English language
-* Expand your vocabularies through direct instruction and contextual strategies
-* Prepare to meet the SAT exam with concrete strategies and a feeling of confidence
+	* Cultivate our identities as intelligent readers and writers through the habits of mind that lead to academic success:
+		+ Curiosity 
+		+ Openness 
+		+ Engagement 
+		+ Creativity 
+		+ Responsibility
+		+ Persistence 
+		+ Metacognition 
+		+ Empathy
+	* Create a community of learners that supports and challenges each other to grow
+	* Explore the nature of the writing process to grow as writers
+	* Read and appreciate meaningful literary and rhetorical texts
+	* Write accomplished papers in a variety of forms: narrative, interpretive, argumentative, and literary
+	* Grow in comfort and proficiency in academic essay writing
+	* Grow in understanding and applying the structural and grammatical elements of the English language
+	* Expand your vocabularies through direct instruction and contextual strategies
+	* Prepare to meet the SAT exam with concrete strategies and a feeling of confidence
 
 ## What You Need
 
 You will begin every class by placing the following on your desk:
-
-* Writing Instrument
-
-* Dedicated single-subject writing journal for in-class writing and note taking
-
-* A book to read for fun
-
-* Homework, Projects, or Current Unit Text
-
-<!--Informal short unit on course logistics--!>
+	* Writing Instrument
+	* Dedicated single-subject writing journal for in-class writing and note taking
+	* A book to read for fun
+	* Homework, Projects, or Current Unit Text
 
 ## Curriculum
 
 The year will examine the following discrete units:
-
-1. Writing Process
-
-2. Writing Freedom
-
-3. Power, Protest and Change
-
-4. Facing our Fears
-
-5. College Essay
+	1. Writing Process
+	2. Writing Freedom
+	3. Power, Protest and Change
+	4. Facing our Fears
+	5. College Essay
 
 ## Grading and Assessment
 
