@@ -22,4 +22,11 @@
   * How is this likely to continue?
   * What can be done? --> Social Studies
 4. Graded Discussion
+5. Talk about reproductive labor
+ * The wealthy are in control
+ * What do you think they want from schools?
+ * Compliant, skilled employees. Look at how education works, and you'll see it
+   - Test scores and grades and how students compete
+   - Competition between schools to get higher scores
+   - Education quality remains with ruling class: education to rule vs. education to work
 5. Present Paper 3
