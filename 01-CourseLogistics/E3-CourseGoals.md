@@ -7,6 +7,9 @@ Most importantly, above all else, my aim is for students to leave this course wi
 * Understand the importance and relevance of literary voices, even if they're different from your own
 * Develop the habit of reading and listening critically so you are not easily fooled
 
+A more detailed list of academic goals for English 3 follows.
+
+---
 ### Literature
 * Read a literary text (poem, narrative, or drama) closely and be able to write thoughtfully about its meaning and technique
 * Understand what a poem is and what they aim to do
