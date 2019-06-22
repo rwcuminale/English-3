@@ -27,14 +27,14 @@ We will also strive to align our studies with American History and Civics course
 The course goals are aligned with mastery of the Connecticut Common Core State Standards for Grade 11.
 Below list the skills, habits, and practices the course values in addition to the Common Core:
 * Cultivate our identities as intelligent readers and writers through the habits of mind that lead to academic success:
-+ Curiosity 
-+ Openness 
-+ Engagement 
-+ Creativity 
-+ Responsibility
-+ Persistence 
-+ Metacognition 
-+ Empathy
+    * Curiosity 
+    * Openness 
+    * Engagement 
+    * Creativity 
+    * Responsibility
+    * Persistence 
+    * Metacognition 
+    * Empathy
 * Create a community of learners that supports and challenges each other to grow
 * Explore the nature of the writing process to grow as writers
 * Read and appreciate meaningful literary and rhetorical texts
@@ -55,25 +55,29 @@ You will begin every class by placing the following on your desk:
 ## Curriculum
 
 The year will examine the following discrete units:
+1. Initial Assessment
 1. Writing Process
-2. Writing Freedom
-3. Power, Protest and Change
-4. Facing our Fears
-5. College Essay
+1. Writing Freedom
+1. The Individual in Society
+1. Modern American Poetry
+1. Politics and Rhetoric
+1. Geography and Literature
+1. The Short Story
+1. The Novel
+1. Preparing the College Essay
+1. Final Exam
 
 ## Grading and Assessment
 
-### Papers and Projects: 60%
+I track student progress both electronically and on paper.
+There is a paper record of each student's behavior during class.
+I keep these data along with grades for classwork in an excel file.
+This file also contains a record of student performance in each rubric for both papers and tests.
+Excel calculates averages and I update Powerschool weekly to update the students' progress.
+Powerschool only contains the totals for each section;
+	I am happy to review a more detailed report with you by request.
 
-Each quarter you will complete five major papers or projects. 
-These assignments are a learning opportunity to grow in knowledge and skill as well as a measure of your abilities in English. 
-In other words, the experience of writing carries a measure of importance along with the actual product. 
-You will never receive a failing grade for your writing quality --- 
-	you only fail if you do not follow directions. 
-Expect papers to vary in length: the majority will be 300 - 500 words, 
-	but you will have one paper per quarter that is generally around the length of 1000 - 2000 words. 
-
-### Participation: 40%
+### Participation: 30%
 
 The participation grade describes engagement with the course and the course activities.
 Every class you begin with a 8/10 grade named "Participation" for being present and attentive. 
@@ -125,6 +129,23 @@ You will complete and submit your work weekly on the last class of the week;
 	I will assess it over the weekend, and we will review your work the following class.
 At this point you will have the opportunity to ask questions and discuss strategies.
 
+### Papers and Projects: 30%
+
+Each quarter you will complete five major papers or projects. 
+These assignments are a learning opportunity to grow in knowledge and skill as well as a measure of your abilities in English. 
+In other words, the experience of writing carries a measure of importance along with the actual product. 
+You will never receive a failing grade for your writing quality --- 
+	you only fail if you do not follow directions. 
+Expect papers to vary in length: the majority will be 300 - 500 words, 
+	but you will have one paper per quarter that is generally around the length of 1000 - 2000 words. 
+
+### Tests: 30%
+
+Most units of study in the curriculum will end with a test.
+These tests are designed to assess your growth in skill and knowledge.
+Students absent on a test day must make up the exam on the day they return.
+Study guides for each test are provided on the class web site.
+
 ### Formative Assessments
 
 Throughout the course you will receive feedback on your skill level and growth, 
@@ -144,7 +165,6 @@ To qualify for Honors you must do the following:
 * Accept the following modifications to standard curriculum assignments;
 * 1,000 minimum to all papers;
 * Supplemental readings to accompany course texts;
-* 10% penalty per day for late work.
 
 ## Policies and Procedures
 
