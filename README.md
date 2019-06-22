@@ -36,11 +36,11 @@ The following materials are required every class:
 * A means for typing and printing composition assignments and papers outside of class
 * A system for tracking your homework and long-term assignments. 
 
-NOTE: I will NOT accept formal compositions or papers electronically, and I do not have a printer for student use (it barely works for me). I will also gladly help you establish a system for tracking your assignments (I'm naturally pretty disorganized, so I've worked hard to figure out task-management systems that work), but I will not track your assignments for you.
+*NOTE: I will NOT accept formal compositions or papers electronically, and I do not have a printer for student use (it barely works for me). I will also gladly help you establish a system for tracking your assignments (I'm naturally pretty disorganized, so I've worked hard to figure out task-management systems that work), but I will not track your assignments for you.*
 
 ## Curriculum
 
-The year will examine the following discrete units:
+The year will explore the following discrete units:
 1. Exploratory and Clarifying Writing
 2. Writing Freedom
 3. The Individual in Society
@@ -116,6 +116,13 @@ These activities will form a discrete part of your participation grade ---
 	in the beginning of the year the exercises will be graded for quality of completion as you grow used to the questions and expectations,
 but as we approach the SAT exam the exercises will be graded for correctness as well. 
 After assessing your work, I will provide you with feedback and the opportunity to ask questions and discuss strategies.
+
+### Midterms and Finals
+
+In lieu of Midterm and Final Exams, you will perform a reflective exercise 
+that makes use of the portfolio-binders you have created throughout the year.
+Keeping a well-supplied and organized portfolio is essential in order to earn high marks on these two assessments.
+Midterms and Finals each count for 10% of your course grade, and they do not count on any specific marking period.
 
 ### Honors Opportunity
 
