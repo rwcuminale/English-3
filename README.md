@@ -22,6 +22,9 @@ Specifically, we will take a close look at the writing process, elements of lite
 The course texts explore both themes and genres, while keeping an open mind to areas of interest that will naturally arise along the way.
 We will also strive to align our studies with American History and Civics courses wherever possible.
 
+Please follow this link for the [Course Goals](https://github.com/rwcuminale/English-3/01-CourseLogistics/E3-CourseGoals.md).
+
+
 ## What You Need
 
 The following materials are required every class:
