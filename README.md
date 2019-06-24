@@ -2,14 +2,14 @@
 
 #### Engineering & Science University Magnet School
 
-New Haven Public Schools\
-500 Boston Post Road\
+New Haven Public Schools  
+500 Boston Post Road  
 West Haven, CT 06516
 
 #### Richard Cuminale
 
-Email:  richard.cuminale@nhboe.net\
-Github: https://github.com/rwcuminale/English-3 \
+Email:  richard.cuminale@nhboe.net  
+Github: https://github.com/rwcuminale/English-3  
 Twitter:  @RichardCuminale
 
 ## Overview
@@ -26,21 +26,20 @@ We will also strive to align our studies with American History and Civics course
 
 The following materials are required every class:
 
-* A dedicated binder
-  * I recommend using a small, 1.5 to 2" binder, and archiving materials every marking period. This allows you to keep from carrying so much bulk around (keep your archived work in a safe place though -- you'll need all your papers for your final at the end of the year)
-  * Use a large binder if you want to keep all your papers from the year inside (3-4")
-* Binder dividers
-* A reliable writing instrument
-* Loose-leaf paper
-* A book (hard-copy, bound) for in-class pleasure reading
-* A means for typing and printing composition assignments and papers outside of class
-* A system for tracking your homework and long-term assignments. 
+1. A dedicated English binder (I recommend using a small, 1.5 to 2" binder, and archiving materials at home every marking period. This allows you to keep from carrying so much bulk around (keep your archived work in a safe place though -- you'll need all your papers for your final at the end of the year.)
+1. Binder dividers
+1. A reliable writing instrument and a backup
+1. Loose-leaf paper
+1. A book (hard-copy, bound) for in-class pleasure reading
+1. A means for typing and printing composition assignments and papers outside of class
+1. A system for tracking your homework and long-term assignments.
 
-*NOTE: I will NOT accept formal compositions or papers electronically, and I do not have a printer for student use (it barely works for me). I will also gladly help you establish a system for tracking your assignments (I'm naturally pretty disorganized, so I've worked hard to figure out task-management systems that work), but I will not track your assignments for you.*
+*NOTE: I will NOT accept formal compositions or papers electronically, and I do not have a printer for student use (my in-class printer barely works, even for me). I will also gladly help you establish a system for tracking your assignments (I'm pretty disorganized by nature, so I've worked hard to figure out task-management systems that work), but I will not track your assignments for you.*
 
 ## Curriculum
 
 The year will explore the following discrete units:
+
 1. Exploratory and Clarifying Writing
 2. Writing Freedom
 3. The Individual in Society
@@ -172,5 +171,5 @@ Unexcused absences will not be afforded these opportunities:
 	the work will count as a zero, and the deadlines remain.
 Unexcused absences from my class when you are present in school attendance will result in a write up and call home.
 Excessive tardies and absences will also result in a call home, as they affect participation grades and honors status.
-I am nevertheless a resonable person: please do not hesitate to communicate with me 
+I am nevertheless a reasonable person: please do not hesitate to communicate with me 
 	if there are any special circumstances that affect your ability to attend or participate in this course.
