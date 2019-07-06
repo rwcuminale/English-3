@@ -43,8 +43,8 @@ The following materials are required every class:
 
 The year will explore the following discrete units:
 
-1. Exploratory and Clarifying Writing
-2. Writing Freedom
+1. Course Introduction & Writing Process
+2. Words that Shaped a Nation
 3. The Individual in Society
 3. Power, Protest and Change
 4. Grit and Grandeur
