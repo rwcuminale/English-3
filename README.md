@@ -43,12 +43,9 @@ The following materials are required every class:
 
 The year will explore the following discrete units:
 
-1. Course Introduction & Writing Process
-2. Words that Shaped a Nation
-3. The Individual in Society
+1. Words that Shaped a Nation
+3. The Individual and Society
 3. Power, Protest and Change
-4. Grit and Grandeur
-4. Facing our Fears
 5. Ordinary Lives, Extraordinary Tales
 5. Approaching the College Essay
 
@@ -66,8 +63,8 @@ You will never receive a failing grade for your writing quality ---
 ### Papers: 30%
 
 You will produce one extended paper per quarter that will follow a theme across a variety of texts.
-This will be a larger work, a minimum of 1,000 words.
-You will complete the paper in stages, receiving feedback along the way, and you will submit artifacts of this process along with the finished work.
+This will be a larger work that draws from your compositions, notes, and textual annotations over the course of the unit.
+You will complete this paper as part of a group project, presenting it as an individual work combined with your other group members' papers to create a small magazine.
 
 ### Preparedness and Participation: 30%
 
@@ -92,9 +89,8 @@ Please see me to check one out.
 
 It's self-evident that the more you write, the easier writing becomes and the more you grow. 
 Research strongly suggests that the physical act of writing increases your focus and cultivates more sophisticated thinking. 
-For this reason I often dedicate class time to write freely in a personal journal. 
-You will also use this as a repository for your in-class notes, ideas, and pre-writing strategies. 
-I will collect them occasionally to assess them for length: 
+For this reason I often dedicate class time to reflect on the class time in a personal journal. 
+I will collect them quarterly in your portfolios to assess them for length: 
 	you should aim to write roughly one full page per writing session (150-200 words).
 
 #### Class Activities
@@ -106,11 +102,6 @@ When you don't work hard
   it nevertheless affects both your learning experience *and those around you*. 
 Do your best every class.
 
-#### Reflective Writing
-
-Often at the end of class you will receive a short writing prompt to reinforce or extend the lines of inquiry of the day's lesson. 
-Honest, informal, short but intelligent writing is valued here. 
-
 #### SAT Practice
 
 Beginning in October, you will have bi-weekly exercises to prepare for the SAT exam. 
@@ -121,9 +112,8 @@ After assessing your work, I will provide you with feedback and the opportunity 
 
 ### Midterms and Finals
 
-In lieu of Midterm and Final Exams, you will perform a reflective exercise 
-that makes use of the portfolio-binders you have created throughout the year.
-Keeping a well-supplied and organized portfolio is essential in order to earn high marks on these two assessments.
+The midterm and final exams will be a combination of a brief presentation and submitting your binder as a portfolio.
+Keeping a well-supplied and organized binder is essential in order to earn high marks on these two assessments.
 Midterms and Finals each count for 10% of your course grade, and they do not count on any specific marking period.
 
 ### Honors Opportunity
@@ -166,8 +156,8 @@ There may be times when you type in class and at those times only are you allowe
 ### Attendance
 
 Excused absences result in excused class participation for the day. 
-Any major deadlines are moved to the next class.
-You are counted absent if you do not show up to class or are absent without permission. 
+Except in the case of group presentations, any major deadlines are moved to the next class.
+For group presentations, they must accommodate your absence: prepare in advance for the possibility of absences.
 If you are absent for an in-class assignment, you must make it up for homework. 
 If you are absent for a quiz, you must take it the day you return. 
 Unexcused absences will not be afforded these opportunities: 
