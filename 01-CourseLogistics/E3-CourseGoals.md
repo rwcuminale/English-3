@@ -1,12 +1,13 @@
 # Course Goals
 ## English 3
 
-Most importantly, above all else, my aim is for students to leave this course with four things:
+Most importantly, above all else, my aim as an instructor is for students to leave this course with five things:
 
-* Know that the writing process generates ideas, and the best way to beat writers block is to write;
-* See confusion as an opportunity to discover your best thinking;
-* Understand the importance and relevance of literary voices, even if they're different from your own;
-* a developed habit of reading and listening critically so you are not easily fooled.
+* Knowledge that the writing process generates ideas, and the best way to beat writers block is to write;
+* Insight into confusion as an opportunity to discover your best thinking;
+* Understanding of the importance and relevance of literary and rhetorical voices, even if they're different from your own;
+* A developed habit of reading and listening critically so you are not easily fooled.
+* Both positive experiences and increased skills of reading and writing through a thoughtfully arranged curriculum of study.
 
 A more detailed list of academic goals for English 3 follows.
 
