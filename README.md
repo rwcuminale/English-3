@@ -16,11 +16,12 @@ Twitter:  @RichardCuminale
 
 English 3 aims to cultivate intellectual skills and habits of mind to help you grow as a person.
 At the same time, you will engage with and hopefully appreciate works of authentic literary and rhetorical merit.
-There is a strong structural focus to the course,
-	meaning it will look at language on a fundamental level, examining how its elements work together.
-Specifically, we will take a close look at the writing process, elements of literature and rhetoric, the explicit functions of grammar, and the representational nature of language as a whole.
-The course texts explore both themes and genres, while keeping an open mind to areas of interest that will naturally arise along the way.
-We will also strive to align our studies with American History and Civics courses wherever possible.
+Specifically, we will take a close look at the writing process,
+	elements of literature and rhetoric,
+	the explicit functions of grammar,
+	and the representational nature of language as a whole.
+The course texts explore both themes and genres,
+	while keeping an open mind to areas of interest that will naturally arise along the way.
 
 Please follow this link for the [Course Goals](https://github.com/rwcuminale/English-3/01-CourseLogistics/E3-CourseGoals.md).
 
@@ -38,27 +39,28 @@ The following materials are required every class:
 1. A system for tracking your homework and long-term assignments.;
 
 *NOTE: I will NOT accept formal compositions or papers electronically,
-and I do not have a printer for student use (my in-class printer barely works, even for me).
-I will also gladly help you establish a system for tracking your assignments
-(I'm pretty disorganized by nature, so I've worked hard to figure out organizational systems that work),
-but I will not track your assignments for you.*
+	and I do not have a printer for student use.
+I will also gladly help you establish a system for tracking your assignments,
+	but I will not track your assignments for you.*
 
 ## Curriculum
 
 The year will explore the following discrete units:
 
-1. Words that Shaped a Nation
+1. Writing Process
+2. Words that Shaped a Nation
 3. The Individual and Society
-3. Power, Protest and Change
+4. Power, Protest and Change
 5. Ordinary Lives, Extraordinary Tales
-5. Approaching the College Essay
+6. Approaching the College Essay
 
 ## Grading and Assessment
 
 ### Compositions: 40%
 
 Each quarter you will complete four formal compositions.
-These assignments are a learning opportunity to grow in knowledge and skill as well as a measure of your abilities in English.
+These exercises are a learning opportunity to grow in knowledge and skill
+	as well as a measure of your abilities in English.
 In other words, the experience of writing carries a measure of importance along with the actual product.
 Expect compositions to be roughly 300 - 500 words.
 You will never receive a failing grade for your writing quality ---
@@ -67,14 +69,17 @@ You will never receive a failing grade for your writing quality ---
 ### Papers: 30%
 
 You will produce one extended paper per quarter that will follow a theme across a variety of texts.
-This will be a larger work that draws from your compositions, notes, and textual annotations over the course of the unit.
-You will complete this paper as part of a group project, presenting it as an individual work combined with your other group members' papers to create a small journal.
+This will be a larger work that draws from your compositions, notes, and textual annotations
+	over the course of the unit.
+You will complete this paper as part of a group project,
+	presenting it as an individual work combined with your other group members' papers to create a small journal.
 
 ### Preparedness and Participation: 30%
 
 The participation grade describes engagement with the course and the course activities.
 Every class you begin with a 8/10 grade named "Participation" for being present and attentive.
-You earn a 10/10 by making an active contribution to the academic environment, either to the class as a whole or in your smaller groups.
+You earn a 10/10 by making an active contribution to the academic environment,
+	either to the class as a whole or in your smaller groups.
 Every class also has a "Prepared" grade for being ready to work when class begins.
 This grade is either a 0/10 or a 10/10;
 	you are either prepared or you are not.
@@ -91,15 +96,18 @@ Please see me to check one out.
 
 #### Personal and Reflective Writing
 
-It's self-evident that the more you write, the easier writing becomes and the more you grow.
-Research strongly suggests that the physical act of writing increases your focus and cultivates more sophisticated thinking.
-For this reason I often dedicate class time to reflect on the class time in a section of your binder set aside for personal writing.
+It's self-evident that the more you write, the easier writing becomes and the more you grow as a writer.
+Research strongly suggests that the physical act of writing increases your focus
+	and cultivates more sophisticated thinking.
+For this reason I often dedicate class time to reflect on the class time
+	in a section of your binder set aside for personal writing.
 You should aim to write roughly one full page per writing session (150-200 words) --
-	I will assess length at the end of writing time..
+	I will assess length at the end of writing time.
 
 #### Class Activities
 
-I design class activities to create meaningful educational experiences and to help you get better working with English.
+I design class activities to create meaningful educational experiences
+	and to help you get better working with English.
 Furthermore, following directions and trying your best are important aspects of belonging to a learning community.
 When you don't work hard
   --- even if you are quiet and not "disruptive" ---
@@ -110,35 +118,43 @@ Do your best every class.
 
 Beginning in October, you will have bi-weekly exercises to prepare for the SAT exam.
 These activities will form a discrete part of your participation grade ---
-	in the beginning of the year the exercises will be graded for quality of completion as you grow used to the questions and expectations,
-but as we approach the SAT exam the exercises will be graded for correctness as well.
+	in the beginning of the year the exercises will be graded for quality of completion
+	as you grow used to the questions and expectations,
+	but as we approach the SAT exam the exercises will be graded for correctness as well.
 After assessing your work, I will provide you with feedback and the opportunity to ask questions and discuss strategies.
 
 ### Midterms and Finals
 
 The midterm and final exams will be a combination of a brief presentation and submitting your binder as a portfolio.
 Keeping a well-supplied and organized binder is essential in order to earn high marks on these two assessments.
-Midterms and Finals each count for 10% of your course grade, and they do not count on any specific marking period.
+Midterms and Finals each count for 10% of your course grade,
+	and they do not count on any specific marking period.
 
 ### Honors Opportunity
 
 You may take this course with honors.
-Signing up for English 3 honors means you will:
+Signing up for English 3 Honors means you will:
 	take on a leadership role in the classroom;
 	accept higher expectations for your performance and behavior;
 	receive more feedback on your writing;
 	earn a half-credit boost to your transcript grade.
-To qualify for Honors you must first sign the honors contract along with your parent or guardian, then strive to do your best in all that is asked of you. Above all it is your character, integrity, and drive that makes you an honors student, not simply your academic abilities.
-Consistent failure to meet honors expectations will jeopardize your status.
+To qualify for Honors you must first sign the honors contract along with your parent or guardian,
+	then strive to do your best in all that is asked of you.
+Above all it is your character, integrity, and drive that makes you an honors student,
+	not simply your academic abilities.
+Consistent failure to meet honors expectations will jeopardize your honors status.
 
 ## Policies and Procedures
 
 ### Logistics
 
-I will communicate assignments to you in class, write them on the board, and give time at the end of class for entering this information into a planner.
+I will communicate assignments to you in class, write them on the board,
+	and give time at the end of class for entering this information into a planner.
 Students are expected to track their assignments.
 I collect all assignments as hard copies.
-I post assignments and classroom announcements on Twitter and maintain this repository for copies of anything I hand out to you.
+To help you keep track,
+	I post assignments and classroom announcements on Twitter
+	and maintain a Github repository for copies of anything I hand out to you.
 
 ### Deadlines
 
@@ -147,15 +163,22 @@ They are due at the beginning of class on the date indicated.
 No paper or project will be received after the deadline.
 Failure to submit a paper or composition earns a "NG" or 0% in the grade book.
 
-*NOTE: Arriving late to class after I have accepted papers means you have missed the deadline. I will not accept these papers. Find reliable access to a printer and print them ahead of time.*
+*NOTE: Arriving late to class after I have accepted papers means you have missed the deadline.
+I will not accept these papers.
+Find reliable access to a printer and print them ahead of time.*
 
 ### Electronics and Phones
 
-Phones, tablets, or ebooks are not permitted in class.
-I will confiscate phones if they are used during class and return them to you after the period ends.
+Phones, tablets, earbuds, or ebooks are not permitted in class.
+I will confiscate these items if they are used during class and return them to you after the period ends.
 Listening to music is not allowed during composition,
-	although I will play music while you write sometimes in order to cultivate the habit of being able to write both during silence (as in standardized tests) and during distracting noise (as often occurs when we compose outside the classroom).
-There may be times when you type in class and at those times only are you allowed to use your own laptop.
+	although I will play music while you write sometimes
+	in order to cultivate the habit of being able to write both during silence
+	(as in standardized tests)
+	and during distracting noise
+	(as often occurs when we compose outside the classroom).
+There may be times when you type in class
+	and at those times only are you allowed to use your own laptop.
 
 ### Attendance
 
