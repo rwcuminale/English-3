@@ -2,14 +2,14 @@
 
 #### Engineering & Science University Magnet School
 
-New Haven Public Schools  
-500 Boston Post Road  
+New Haven Public Schools
+500 Boston Post Road
 West Haven, CT 06516
 
 #### Richard Cuminale
 
-Email:  richard.cuminale@nhboe.net  
-Github: https://github.com/rwcuminale/English-3  
+Email:  richard.cuminale@nhboe.net
+Github: https://github.com/rwcuminale/English-3
 Twitter:  @RichardCuminale
 
 ## Overview
@@ -23,7 +23,7 @@ Specifically, we will take a close look at the writing process,
 The course texts explore both themes and genres,
 	while keeping an open mind to areas of interest that will naturally arise along the way.
 
-Please follow this link for the [Course Goals](https://github.com/rwcuminale/English-3/01-CourseLogistics/E3-CourseGoals.md).
+Please follow this link for the [Course Goals](https://github.com/rwcuminale/English-3/blob/master/01-CourseLogistics/E3-CourseGoals.md).
 
 
 ## What You Need
