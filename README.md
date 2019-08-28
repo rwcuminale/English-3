@@ -3,7 +3,9 @@
 #### Engineering & Science University Magnet School
 
 New Haven Public Schools
+
 500 Boston Post Road
+
 West Haven, CT 06516
 
 #### Richard Cuminale
