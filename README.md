@@ -21,11 +21,19 @@ Follow my [twitter](https://twitter.com/richard.cuminale) to see the day's agend
 
 ### Marking Period 1
 
+#### Composition 1
+
+#### Composition 2
+
 [Literacy Narrative](https://github.com/rwcuminale/English-3/blob/master/Unit-1-WritingProcess/Paper-1-LiteracyNarrative.docx)
 
 [Literacy Narrative Model](https://github.com/rwcuminale/English-3/blob/master/Unit-1-WritingProcess/LiteracyNarrativeModel/wp-paper-m.pdf)
 
 [Literacy Narrative Model Folder (including process)](https://github.com/rwcuminale/English-3/tree/master/Unit-1-WritingProcess/LiteracyNarrativeModel)
+
+#### Composition 3
+
+#### Composition 4
 
 ### Marking Period 2
 
