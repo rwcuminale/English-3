@@ -1,0 +1,193 @@
+\documentclass[12pt]{article}
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{microtype}
+\usepackage[letterpaper]{geometry}
+\usepackage{times}
+\geometry{top=1.0in, bottom=1.0in, left=1.0in, right=1.0in}
+
+%Doublespacing
+\usepackage{setspace}
+\doublespacing
+
+%Rotating tables (e.g. sideways when too long)
+\usepackage{rotating}
+
+%Fancy-header package to modify header/page numbering (insert last name)
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\lhead{} 
+\chead{} 
+\rhead{Cuminale \thepage} 
+\lfoot{} 
+\cfoot{} 
+\rfoot{} 
+\renewcommand{\headrulewidth}{0pt} 
+\renewcommand{\footrulewidth}{0pt} 
+%To make sure we actually have header 0.5in away from top edge
+%12pt is one-sixth of an inch. Subtract this from 0.5in to get headsep value
+\setlength\headsep{0.333in}
+
+%Works cited environment
+%(to start, use \begin{workscited...}, each entry preceded by \bibent)
+% - from Ryan Alcock's MLA style file
+\newcommand{\bibent}{\noindent \hangindent 40pt}
+\newenvironment{workscited}{\newpage \begin{center} Works Cited \end{center}}{\newpage }
+
+%-------------------------------------------------------------------------------
+\begin{document}
+%-------------------------------------------------------------------------------
+
+\begin{flushleft}
+
+%%%%First page name, class, etc
+Richard Cuminale\\
+% Professor\\
+English 3\\
+23 August 2018\\
+
+
+%%%%Title
+\begin{center}
+Literacy Narrative: Becoming a Writer
+\end{center}
+
+
+%%%%Changes paragraph indentation to 0.5in
+\setlength{\parindent}{0.5in}
+%%%%Begin body of paper here
+
+My sense of self as a writer has changed significantly over time. I
+used not to even consider myself a writer at all, but instead I was
+someone who found himself in situations where he was compelled to
+write. These situations started with papers and projects, moved on to
+cover letters, resumes, emails and letters, and eventually brought me
+to lesson plans, unit plans, and other instructional materials. The
+paper I write even now is one I am compelled to write as I prepare the
+Writing Process Unit. Somehow, however, as I continued to complete
+these writing assignments, I became a writer. I write now with
+confidence, knowing this is my craft and I am capable at it. I write
+for pleasure and fun as I work my way through writing a novel that has
+been a burden on my heart for more than a decade. I'm not quite sure
+though how this transition happened --- it seems to be something I
+simply grew into.
+
+When I think of my early writing experiences my mind is first drawn to
+elementary school where I appreciated writing as a tool of the
+imagination. One of my favorite assignments in third grade involved
+story writing: we were giving a small, silly picture (a mouse dressed
+up as a bank-robber holding a bag full of cash, for instance) and a
+bunch of lines underneath with the challenge to write a story around
+the image. I loved the liberty of being able to invent whatever I
+liked with the knowledge that it only had to be fun for me. Any
+writing that involved invention captivated me.
+
+Of course, high-school writing often is nothing like this, involving
+neither story writing nor invention. Maybe this is why, when I
+consider my high school experiences, I still think of myself as a
+struggling paper-writer first. I think of Ms. Bierbower's English
+class in 11th grade. I took honors English because I loved to read and
+I was told I had talent as a writer so the class should have showed me
+new things that I would enjoy learning about. I think she was a good
+teacher, but what I remember most was not writing the papers. I would
+receive the assignment with fear, then sit in anxiety as I put it off
+and off and off to the ``last minute'' even though I fully knew I
+wouldn't work during that minute either. The time would come to turn
+it in and I would sit at my desk paralyzed as Ms. Bierbower would come
+down the rows, pause by my blank desk, sigh when I didn't look up let
+alone turn something in, and then move on.
+
+Despite my best efforts, my parents would always find out that I
+hadn't done my work and they would show the usual amount of anger and
+frustration. I still hear the refrain, ``Why can't you just do your
+work?'' Then the worst part would come: I'd have to --- \emph{have} to
+--- sit in front of the computer with my English textbook and
+assignment and type the paper from start to finish. The blank page
+terrified me then, and it still frightens me now. I'd spend thirty
+minutes on the heading, font, spacing, etc --- whatever I could find
+to avoid the actual writing. Then when I did begin, I would hate every
+word I wrote. As my work progressed, my attitude would shift from
+``Just get something down'' to ``Just finish it, who cares what it
+looks like, just get it done.'' Writing was a chore, a transaction. I
+was never invested in what I wrote. Then I would turn it in late and
+get a B or B+ on it. Instead of encouraging me that I had writing
+ability and not to be so afraid of it, this made me think instead that
+I was good at doing things at the last minute, or that the teacher was
+an easy grader, and I never changed my ways.
+
+When I wonder why writing was so hard for me, I think it was because I
+hated seeing my own words on the page. Something changed when my
+writing moved from stories for fun to my thoughts that would be
+evaluated. I was never told my silly stories in third grade were poor,
+yet my papers never seemed to be good enough. It made me uncomfortable
+because I felt like I was full of it, like my writing and ideas were
+empty, and I was inferior to the other great writers I liked to
+read. It wasn't until I gave myself permission to write a bad first
+draft that writing stopped becoming so painful. Now it's not a big
+deal to write papers, but still some of the pain remains even now.
+
+But there's no getting around it: the training I hated in high school
+helped me to write papers in college, and writing papers in college
+got me used to writing my ideas down and explaining myself, and when,
+in college, I had to write so much that five-page papers became
+routine homework assignments, that's when I truly began to grow as a
+writer. Now as a teacher I understand the writing process really for
+the first time, and I can take advantage of it to do the writing that
+I want to do and that I like to create. I suppose the demands of
+school created the space for writing, and the freedom of being outside
+instruction allowed me to find the material I find pleasure working
+with in that space. Now I feel like my day is missing something if I
+don't write my dreams or my thoughts of the day. I feel my fantasy
+novel growing every day in my head, and I'm \emph{eager} to put my new
+ideas down before I forget them. I correspond with friends over mail
+and email, and it's a pleasure to take out my old typewriter and bang
+out a letter, and I understand myself to be good at writing in these
+forms. 
+
+I began this essay considering myself a writer, and I now end it
+considering myself a good writer. What makes me a good writer? What
+makes any writer good? I think I'm finally good at it because I know
+that what I put on the page is both honest and accurate. Of course, my
+writing is full of errors, but it does accurately capture my mind, my
+thoughts, my feelings, and my imagination. I think this is what is
+most important, because writing is a human endeavor --- no matter how
+small --- and it should always have something of the human experience
+in it.
+
+% \newpage
+
+% %%%%Title
+% \begin{center}
+% Notes
+% \end{center}
+% 
+% 
+% \setlength{\parindent}{0.5in}
+% 
+% 1. Danhof includes ¡°Delaware, Maryland, all states north of the Potomac and Ohio rivers, Missouri, and states to its north¡± when referring to the northern states (11).
+% 
+% 
+% 2. For the purposes of this paper,¡°science¡± is defined as it was in nineteenthcentury agriculture: conducting experiments and engaging in research.
+% 
+% 
+% 3. Please note that any direct quotes from the nineteenth century texts are writtenin their original form, which may contain grammar mistakes according to twenty-first century grammar rules.
+% 
+% %%%%Works cited
+% \begin{workscited}
+% 
+% \bibent
+% Allen, R.L. \textit{The American Farm Book; or Compend of Ameri can Agriculture; Being a Practical Treatise on Soils, Manures, Draining, Irrigation, Grasses, Grain, Roots, Fruits, Cotton, Tobacco, Sugar Cane, Rice, and Every Staple Product of the United States with the Best Methods of Planting, Cultivating, and Prep aration for Market.} New York: Saxton, 1849. Print.
+% 
+% \bibent
+% Baker, Gladys L., Wayne D. Rasmussen, Vivian Wiser, and Jane M. Porter. \textit{Century of Service: The First 100 Years of the United States Department of Agriculture.}[Federal Government], 1996. Print.
+% 
+% \bibent
+% Danhof, Clarence H. \textit{Change in Agriculture: The Northern United States, 1820-1870.} Cambridge: Harvard UP, 1969. Print.
+% 
+% 
+% \end{workscited}
+
+\end{flushleft}
+\end{document}
+\}
